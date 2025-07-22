@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+numpy
+sqlalchemy
+psycopg2-binary  # Use psycopg2-binary for easier installation, or psycopg2 if preferred
